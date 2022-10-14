@@ -14,7 +14,6 @@ public class ArrangeZeroOne {
 				else n2[end--]=n[i];
 			}
 			System.out.println(Arrays.toString(n2));
-		}
+		}else System.out.println("Input is Zero Length");
 	}
-
 }
